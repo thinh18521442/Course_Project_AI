@@ -9,4 +9,9 @@ Input: một câu, từ bất kì(biểu cảm) <br>
 Output: xuất ra “Tích cực : )” nếu câu, từ đó mang nghĩa tích cực, hoặc xuất ra “Tiêu cực : (” nếu câu, từ đó mang nghĩa tiêu cực
 
 ## Demo:
+<p align="center"><img src="https://github.com/thinh18521442/Course_Project_AI/blob/master/readme/Annotation%202020-06-28%20221119.png" width="700" height="400"></p>
 
+## Dataset
+Bạn có thể tải dataset tại [đây](https://github.com/thinh18521442/Course_Project_AI/blob/master/dataset1.csv)
+## :heart: Owner
+Made with :heart:&nbsp;  by [Code for fun group](https://github.com/thinh18521442)
