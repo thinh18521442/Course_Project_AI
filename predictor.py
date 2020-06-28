@@ -61,7 +61,7 @@ def predict(text):
         #dưới 3* quy về 1*, trên 3* quy về 5*
         '6 sao': ' 5star ','6 star': ' 5star ', '5star': ' 5star ','5 sao': ' 5star ','5sao': ' 5star ',
         'starstarstarstarstar': ' 5star ', '1 sao': ' 1star ', '1sao': ' 1star ','2 sao':' 1star ','2sao':' 1star ',
-        '2 starstar':' 1star ','1star': ' 1star ', '0 sao': ' 1star ', '0star': ' 1star ', 'không làm tôi thất vọng': 'positive'
+        '2 starstar':' 1star ','1star': ' 1star ', '0 sao': ' 1star ', '0star': ' 1star ', 'không làm tôi thất vọng': 'positive', 'không ngon': 'dở', 'không vui': 'buồn', 'không tệ': 'tốt', 'không buồn' : 'vui'
     }
     for k ,v in replace_list.items():
       data = data.replace(k,v)
